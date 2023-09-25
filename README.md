@@ -2,6 +2,4 @@
 # This is an H1 header (largest)
 ##### This is an H6 header (smallest)
 ## Summary
-This repository contains all of the notes taken by Dimitrios for the Lighthouse Labs Web Development Bootcamp.
-
-...taken by [Dimitrios](https://github.com/Griego86)
+This repository contains all of the notes taken by [Dimitrios](https://github.com/Griego86) for the Lighthouse Labs Web Development Bootcamp.
